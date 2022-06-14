@@ -1,9 +1,19 @@
 
-.color-1 {
-    background-color: #74ac00;
+.list-style {
+    list-style: none;
 }
 
-.color-2 {
-    background-color: #aaa;
+.color-1 {
+    /*background-color: #FC9918;*/
+    background-color: rgb(237, 125, 49)
+}
+
+.menu-footer {
+    list-style: none;
+    font-size: 14px;
+}
+
+.font-footer {
+    font-size: 14px;
 }
 
